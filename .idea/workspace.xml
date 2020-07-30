@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df817b02-ce89-4bab-8840-5752ffdf3e61" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Algorithm" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bCnS8ufxSeKyqStndwpiKw6JTu" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/algorithm/graphs/dfs/undigraph" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IDEA_workspace\Algorithm\src\algorithm\graphs\dfs\undigraph" />
+      <recent name="E:\IDEA_workspace\Algorithm" />
+      <recent name="E:\IDEA_workspace\Algorithm\src" />
+      <recent name="E:\IDEA_workspace\Algorithm\resources" />
+      <recent name="E:\IDEA_workspace\Algorithm\lib" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="algorithm.graphs" />
+      <recent name="searching.tree" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IDEA_workspace\Algorithm\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.GraphTest.test">
+    <configuration name="Fibonacci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.Fibonacci" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.PrimTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GraphTest" />
+      <option name="METHOD_NAME" value="PrimTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.TopologicalTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GraphTest" />
+      <option name="METHOD_NAME" value="TopologicalTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.kosarajuTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GraphTest" />
+      <option name="METHOD_NAME" value="kosarajuTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GraphTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.GraphTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.GraphTest.test" />
+        <item itemvalue="Application.Fibonacci" />
+        <item itemvalue="JUnit.GraphTest.PrimTest" />
+        <item itemvalue="JUnit.GraphTest.kosarajuTest" />
+        <item itemvalue="JUnit.GraphTest.TopologicalTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df817b02-ce89-4bab-8840-5752ffdf3e61" name="Default Changelist" comment="" />
+      <created>1588144939301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588144939301</updated>
+      <workItem from="1588144944459" duration="740000" />
+      <workItem from="1588597828356" duration="87000" />
+      <workItem from="1588686571492" duration="43000" />
+      <workItem from="1588686633970" duration="6000" />
+      <workItem from="1588688333916" duration="3894000" />
+      <workItem from="1588696195316" duration="239000" />
+      <workItem from="1588696457045" duration="714000" />
+      <workItem from="1588774262926" duration="2469000" />
+      <workItem from="1588901760687" duration="294000" />
+      <workItem from="1588903554114" duration="276000" />
+      <workItem from="1588903860194" duration="1991000" />
+      <workItem from="1588905967758" duration="3848000" />
+      <workItem from="1588922127378" duration="990000" />
+      <workItem from="1589155688781" duration="7217000" />
+      <workItem from="1589166007871" duration="50000" />
+      <workItem from="1589501736801" duration="557000" />
+      <workItem from="1589502597006" duration="260000" />
+      <workItem from="1590548465690" duration="5182000" />
+      <workItem from="1590568454003" duration="6115000" />
+      <workItem from="1590639054661" duration="13437000" />
+      <workItem from="1590804175817" duration="1855000" />
+      <workItem from="1590817144469" duration="3983000" />
+      <workItem from="1590828793246" duration="626000" />
+      <workItem from="1590916789784" duration="8000" />
+      <workItem from="1590942539817" duration="17000" />
+      <workItem from="1591678665311" duration="4347000" />
+      <workItem from="1591775930229" duration="557000" />
+      <workItem from="1591796174577" duration="1480000" />
+      <workItem from="1591859832377" duration="8117000" />
+      <workItem from="1591878988587" duration="1879000" />
+      <workItem from="1591880961264" duration="2443000" />
+      <workItem from="1591884894809" duration="873000" />
+      <workItem from="1591934600099" duration="317000" />
+      <workItem from="1591942598086" duration="5000" />
+      <workItem from="1591946145177" duration="653000" />
+      <workItem from="1592114595466" duration="269000" />
+      <workItem from="1592630118882" duration="4907000" />
+      <workItem from="1592713215165" duration="10036000" />
+      <workItem from="1592887523214" duration="3361000" />
+      <workItem from="1592972188011" duration="9056000" />
+      <workItem from="1593066595658" duration="7011000" />
+      <workItem from="1593094608113" duration="956000" />
+      <workItem from="1593144080338" duration="6705000" />
+      <workItem from="1593168542030" duration="2334000" />
+      <workItem from="1593624640439" duration="447000" />
+      <workItem from="1593827328232" duration="8615000" />
+      <workItem from="1593913441265" duration="1703000" />
+      <workItem from="1594022199736" duration="8238000" />
+      <workItem from="1594105719869" duration="15019000" />
+      <workItem from="1594168611374" duration="20465000" />
+      <workItem from="1594253558998" duration="13275000" />
+      <workItem from="1594340808035" duration="4813000" />
+      <workItem from="1594363417163" duration="6578000" />
+      <workItem from="1594428193159" duration="13698000" />
+      <workItem from="1594512806896" duration="6266000" />
+      <workItem from="1594605433737" duration="3000" />
+      <workItem from="1594606818791" duration="2274000" />
+      <workItem from="1594611981405" duration="5629000" />
+      <workItem from="1595033530338" duration="9775000" />
+      <workItem from="1595120584766" duration="2341000" />
+      <workItem from="1595149781784" duration="3450000" />
+      <workItem from="1595171170440" duration="686000" />
+      <workItem from="1595206555774" duration="6717000" />
+      <workItem from="1595233540754" duration="5470000" />
+      <workItem from="1595248281506" duration="369000" />
+      <workItem from="1595249138946" duration="2121000" />
+      <workItem from="1595290590893" duration="8367000" />
+      <workItem from="1595318675177" duration="4547000" />
+      <workItem from="1595379324106" duration="8531000" />
+      <workItem from="1595429224831" duration="1679000" />
+      <workItem from="1595466807394" duration="7314000" />
+      <workItem from="1595550428635" duration="10975000" />
+      <workItem from="1595637007983" duration="2781000" />
+      <workItem from="1595662198264" duration="3341000" />
+      <workItem from="1595723372029" duration="3858000" />
+      <workItem from="1595771021560" duration="1360000" />
+      <workItem from="1595836217704" duration="2331000" />
+      <workItem from="1595852429380" duration="1886000" />
+      <workItem from="1595902615256" duration="775000" />
+      <workItem from="1595918999921" duration="636000" />
+      <workItem from="1595927567496" duration="1150000" />
+      <workItem from="1595931679455" duration="1208000" />
+      <workItem from="1595992258388" duration="1526000" />
+      <workItem from="1596014992246" duration="1271000" />
+      <workItem from="1596088199268" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
